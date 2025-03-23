@@ -1,5 +1,5 @@
 {
-  "name": "soflyy/wp-all-import-pro",
+  "name": "albertoformi/fR9z3I4PWXT3qx-allimp",
   "type": "wordpress-plugin",
   "description": "The most powerful solution for importing XML and CSV files to WordPress. Import to Posts, Pages, and Custom Post Types. Support for imports that run on a schedule, ability to update existing imports, and much more.",
   "keywords": ["wordpress", "plugin", "import", "wp all import"],
@@ -25,6 +25,7 @@
       "php": "7.4"
     }
   },
+  "type": "wordpress-plugin",
   "autoload": {
     "psr-4": {
       "Wpai\\": "src"
